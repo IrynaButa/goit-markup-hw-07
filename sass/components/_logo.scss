@@ -1,0 +1,16 @@
+.logo {
+  color: $main-text-color;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 26px;
+  letter-spacing: 0.03em;
+}
+.logo-text-web {
+  color: $button-blue;
+}
+.logo-footer {
+  @extend .logo;
+  color: $bgn-white-color;
+  display: block;
+  margin-bottom: 20px;
+}

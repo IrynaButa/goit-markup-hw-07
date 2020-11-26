@@ -1,0 +1,62 @@
+@font-face {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/raleway-v18-latin_cyrillic-regular.eot"); /* IE9 Compat Modes */
+  src: local(""),
+    url("../fonts/raleway-v18-latin_cyrillic/raleway-v18-latin_cyrillic-regular.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */
+      url("../fonts/raleway-v18-latin_cyrillic/raleway-v18-latin_cyrillic-regular.woff2")
+      format("woff2"),
+    /* Super Modern Browsers */
+      url("../fonts/raleway-v18-latin_cyrillic/raleway-v18-latin_cyrillic-regular.woff")
+      format("woff"),
+    Modern Browsers
+      url("../fonts/raleway-v18-latin_cyrillic/raleway-v18-latin_cyrillic-regular.ttf")
+      format("truetype"),
+    /* Safari, Android, iOS */
+      url("../fonts/raleway-v18-latin_cyrillic/raleway-v18-latin_cyrillic-regular.svg#Raleway")
+      format("svg"); /* Legacy iOS */
+}
+/* raleway-700 - latin_cyrillic */
+@font-face {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/raleway-v18-latin_cyrillic/raleway-v18-latin_cyrillic-700.eot"); /* IE9 Compat Modes */
+  src: local(""),
+    url("../fonts/raleway-v18-latin_cyrillic/raleway-v18-latin_cyrillic-700.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */
+      url("../fonts/raleway-v18-latin_cyrillic/raleway-v18-latin_cyrillic-700.woff2")
+      format("woff2"),
+    /* Super Modern Browsers */
+      url("../fonts/raleway-v18-latin_cyrillic/raleway-v18-latin_cyrillic-700.woff")
+      format("woff"),
+    /* Modern Browsers */
+      url("../fonts/raleway-v18-latin_cyrillic/raleway-v18-latin_cyrillic-700.ttf")
+      format("truetype"),
+    /* Safari, Android, iOS */
+      url("../fonts/raleway-v18-latin_cyrillic/raleway-v18-latin_cyrillic-700.svg#Raleway")
+      format("svg"); /* Legacy iOS */
+}
+
+$button-blue: #2196f3;
+$bgn-white-color: #ffffff;
+$bgn-white-color-01: rgba(255, 255, 255, 0.1);
+$bgn-white-color-06: rgba(255, 255, 255, 0.6);
+$bgn-white-color-03: rgba(255, 255, 255, 0.3);
+$bgn-gray-color: #f5f4fa;
+$main-text-color: #212121;
+$main-text-color-02: rgba(33, 33, 33, 0.2);
+$second-text-color: #757575;
+$second-text-color-05: rgba(117, 117, 117, 0.5);
+$footer-color: #2f303a;
+$footer-color-08: rgba(47, 48, 58, 0.8);
+$icon-color: #afb1b8;
+$bgc-hero: #c4c4c4;
+$border: #eeeeee;
+$border-header: #ececec;
+$backdrop-color: rgba(0, 0, 0, 0.2);
+$overlay: rgba(33, 150, 243, 0.9);
